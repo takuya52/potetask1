@@ -173,7 +173,7 @@ header {
 }
 
 .HeaderNavListItem{
-  margin-right: 45px;
+  margin-right: 30px;
 }
 
 @media screen and (max-width: 1080px){
@@ -272,7 +272,7 @@ text-align: center;
 
 
 .FirstView{
-  background-image: url(//camp.potepan.com/wp-content/themes/potepancamp/assets/styles/../images/home/first-view/top-hero.jpg);
+  background-image: url(https://camp.potepan.com/wp-content/themes/potepancamp/assets/images/home/first-view/top-hero.jpg);
   background-size: cover;
   background-position: center;
   padding-top: 100px;
